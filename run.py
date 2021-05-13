@@ -5,7 +5,7 @@ from matplotlib import pylab as plt
 import seaborn as sns
 
 m = 1
-n_list = list(range(6, 17))
+n_list = list(range(1, 17))
 
 
 omp = []
